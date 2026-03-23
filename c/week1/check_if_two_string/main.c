@@ -1,5 +1,5 @@
 // https://leetcode.com/problem-list/w5s9pzgi/
-//  1662. Check If Two String Arrays are Equivalent ()
+//  1662. Check If Two String Arrays are Equivalent
 #include<stdio.h>
 #include<string.h>
 #include<stdbool.h>
